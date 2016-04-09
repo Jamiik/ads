@@ -1,4 +1,7 @@
 #success_message{ display: none;}
+.form-label-correction{
+	margin-bottom:2px;
+}
 
 .form-btn{
 	width:180px;
