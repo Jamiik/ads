@@ -13,7 +13,7 @@
                 min: 2,
               },
               notEmpty: {
-                message: 'Please supply your first name'
+                message: 'Please supply your admin name'
               }
             }
           },
@@ -23,28 +23,24 @@
                 min: 2,
               },
               notEmpty: {
-                message: 'Please supply your last name'
+                message: 'Please supply your company name'
               }
             }
           },
           telepon: {
             validators: {
               notEmpty: {
-                message: 'Please supply your email address'
-              },
-              emailAddress: {
-                message: 'Please supply a valid email address'
-              }
+                message: 'Please supply your phone number'
+              },              
             }
           },
           email: {
             validators: {
               notEmpty: {
-                message: 'Please supply your phone number'
+                message: 'Please supply your email address'
               },
-              phone: {
-                country: 'US',
-                message: 'Please supply a vaild phone number with area code'
+              emailAddress: {
+                message: 'Please supply a valid email address'
               }
             }
           }
