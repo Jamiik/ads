@@ -1,3 +1,5 @@
+#success_message{ display: none;}
+
 .form-btn{
 	width:180px;
 	display: block;
@@ -12,7 +14,7 @@
 	border-radius: 5px 5px 5px 5px;
 	cursor: pointer;
 	margin-top: 20px;
-	margin-bottom: 30px;
+	margin-bottom: 50px;
 	font-size: 18px;
 }
 
