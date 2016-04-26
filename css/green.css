@@ -231,8 +231,8 @@ h1, h2, h3, h4, h5, h6 {
 .section-heading {
   float: left;
   width: 100%;
-  padding-bottom: 50px;
-  margin-bottom: 50px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
   clear: both;
 }
 .section-heading h2 {
@@ -726,7 +726,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .person {
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: 0px;
   float: left;
   width: 100%;
 }
@@ -750,7 +750,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footer {
-  padding: 50px 0;
+  padding: 25px 0;
   color: #7f7f7f;
 }
 #footer .copyright {
@@ -975,7 +975,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .owl-carousel-fullwidth .item, .owl-carousel-fullwidth .fh5co-owl-text-wrap {
-  height: 800px;
+  height: 645px;
   display: table;
   width: 100%;
 }
@@ -1067,7 +1067,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 .owl-carousel-fullwidth .item .fh5co-owl-text .fh5co-sub-lead {
-  font-size: 30px;
+  font-size: 20px;
   line-height: 30px;
   line-height: 42px;
   font-weight: 100;
