@@ -16,8 +16,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.8;
-  color: #777777;
-  color: #7f7f7f;
+  color: #2F2B2B;
   background: #fff;
   height: 100%;
   position: relative;
@@ -264,7 +263,7 @@ h1, h2, h3, h4, h5, h6 {
 .section-heading h3 {
   font-weight: 300;
   line-height: 1.5;
-  color: #929292;
+  color: #FFFFFF;
 }
 @media screen and (max-width: 768px) {
   .section-heading h3 {
@@ -285,7 +284,8 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-testimonials,
 #fh5co-pricing,
 #fh5co-press {
-  padding: 7em 0;
+  padding-top: 50px;
+  padding-bottom: 0px;
 }
 @media screen and (max-width: 480px) {
   #fh5co-our-services,
@@ -458,7 +458,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #fff;
   text-align: center;
   color: #7f7f7f;
-  margin-bottom: 70px;
+  margin-bottom: 30px;
   position: relative;
 }
 @media screen and (max-width: 992px) {
